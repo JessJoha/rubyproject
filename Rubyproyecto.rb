@@ -1,1 +1,1 @@
-puts "¡Hola, Mundo!"
+puts "¡Hello wordl, a simple project in Ruby!"
